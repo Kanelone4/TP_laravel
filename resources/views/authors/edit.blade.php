@@ -2,7 +2,7 @@
 @section('title', "Modification d'un auteur")
 
 @section('content')
-<h1 class="text-light">Modification d'un auteur</h1>
+<h1 class="text-dark">Modification d'un auteur</h1>
 
 <form action="{{route('authors.update', $author->id)}}" method="POST" class="border border-danger border-4 rounded-4 p-3 bg-dark">
     @csrf

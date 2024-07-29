@@ -3,7 +3,7 @@
 
 @section('content')
 
-<h1 class="text-light">Edit Book</h1>
+<h1 class="text-dark">Edit Book</h1>
 <form action="{{route('books.update', $book->id)}}" method="POST" class="border border-primary border-4 rounded-4 p-3 bg-dark">
     @csrf
     @method('PUT')
