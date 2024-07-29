@@ -1,6 +1,6 @@
 # TITRE DU TP: Gestion d'une bibliothèque
 
-Page_d_accueil ![Page_d_acceuil](screenshots/page d'accueil.PNG)
+Page_d_accueil ![Page_d_acceuil](screenshots/page_d_accueil.PNG)
 
 Book_list ![Liste_des_livres](screenshots/book_list.PNG)
 
